@@ -1,5 +1,8 @@
 //Created by Naman Kukreti
 //Date - 12/12/2021
+//Copyright (C) 2007 Free Software Foundation, Inc. <https://fsf.org/>
+//  Everyone is permitted to copy and distribute verbatim copies
+//  of this license document, but changing it is not allowed.
 
 #include <stdio.h>
 #include <stdlib.h>
