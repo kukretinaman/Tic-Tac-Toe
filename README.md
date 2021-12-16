@@ -1,0 +1,5 @@
+# Tic-Tac-Toe
+Basic C library used to create a Tic-Tac-Toe game playable with computer
+Enjoy your time playing with computer where you are most likely to win 
+Also would accept further modifications to configure AI for computer participation codes.
+ASTA_LA_VISTA ;D
